@@ -1,8 +1,5 @@
 import java.util.Scanner;
 
-/**
- * Created by kusumi on 06/08/15.
- */
 public class TriangleExercise {
     public static void main(String[] args) {
         Scanner S = new Scanner(System.in);
